@@ -1,6 +1,8 @@
 Menampilkan dan Menyembunyikan File dan Folder
 ==============================================
 
+Ditulis oleh T. Surya Fajri pada Sab, 06/14/2014 - 13:34
+
 Hidden file atau folder merupakan file atau folder yang tidak
 ditampilkan sebagaimana mestinya. Tujuan hidden file tidak lain adalah
 menyembunyikan file dan folder penting yang merupakan bagian dari
